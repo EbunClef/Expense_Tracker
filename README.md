@@ -40,6 +40,4 @@ Manages a collection of Expense objects.
 - Python 3.x installed on your machine.
 
 ### Clone the Repository
-```bash
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
+
